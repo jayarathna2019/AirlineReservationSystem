@@ -1,0 +1,8 @@
+﻿  airreservation.cpp
+c:\users\jayar\source\repos\airreservation\airreservation\database.h(18): error C2065: 'kpassengerflightNo': undeclared identifier
+c:\users\jayar\source\repos\airreservation\airreservation\airreservation.cpp(53): error C2143: syntax error: missing ';' before '}'
+  Database.cpp
+c:\users\jayar\source\repos\airreservation\airreservation\database.cpp(28): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+  User.cpp
+c:\users\jayar\source\repos\airreservation\airreservation\user.cpp(33): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+  Generating Code...
